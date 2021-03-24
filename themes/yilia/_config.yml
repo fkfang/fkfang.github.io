@@ -6,16 +6,16 @@ menu:
 
 # SubNav
 subnav:
-  github: "#"
-  weibo: "#"
-  rss: "#"
-  zhihu: "#"
+  github: "https://github.com/fkfang"
+  #weibo: "#"
+  #rss: "#"
+  zhihu: "https://www.zhihu.com/people/fk.fang"
   #qq: "#"
   #weixin: "#"
-  #jianshu: "#"
+  jianshu: "https://www.jianshu.com/u/e9d7ba67291d"
   #douban: "#"
   #segmentfault: "#"
-  #bilibili: "#"
+  bilibili: "https://space.bilibili.com/1664792405"
   #acfun: "#"
   #mail: "mailto:litten225@qq.com"
   #facebook: "#"
@@ -126,5 +126,19 @@ friends:
   友情链接4: http://localhost:4000/
   友情链接5: http://localhost:4000/
   友情链接6: http://localhost:4000/
+
+leancloud_visitors:
+  enable: true
+  app_id: Uizvb5DSQimjns0uO0eqyrGf-gzGzoHsz
+  app_key: mNvy79dNxEHY6cxpJpVbr4hR
+
+#添加一下js插件的 CDN地址
+js_cdn:
+  jquery: https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js
+  av : //cdn1.lncld.net/static/js/2.5.0/av-min.js
+
+# 不蒜子网站统计
+busuanzi:
+  enable: false
 
 aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家

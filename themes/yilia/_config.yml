@@ -2,11 +2,12 @@
 
 menu:
   主页: /
-  随笔: /tags/随笔/
+  目录: /archives/
 
 # SubNav
 subnav:
   github: "https://github.com/fkfang"
+  #gitee: "https://gitee.com/fkfang"
   #weibo: "#"
   #rss: "#"
   zhihu: "https://www.zhihu.com/people/fk.fang"
@@ -15,9 +16,9 @@ subnav:
   jianshu: "https://www.jianshu.com/u/e9d7ba67291d"
   #douban: "#"
   #segmentfault: "#"
-  bilibili: "https://space.bilibili.com/1664792405"
+  #bilibili: "https://space.bilibili.com/1664792405"
   #acfun: "#"
-  #mail: "mailto:litten225@qq.com"
+  mail: "fkfang@126.com"
   #facebook: "#"
   #google: "#"
   #twitter: "#"
@@ -120,12 +121,10 @@ smart_menu:
   aboutme: '关于我'
 
 friends:
-  友情链接1: http://localhost:4000/
-  友情链接2: http://localhost:4000/
-  友情链接3: http://localhost:4000/
-  友情链接4: http://localhost:4000/
-  友情链接5: http://localhost:4000/
-  友情链接6: http://localhost:4000/
+  我的github: https://github.com/fkfang
+  我的gitee: https://gitee.com/fkfang
+  我的知乎: https://www.zhihu.com/people/fk.fang
+  我的简书: https://www.jianshu.com/u/e9d7ba67291d
 
 leancloud_visitors:
   enable: true

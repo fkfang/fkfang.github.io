@@ -66,10 +66,10 @@ top: true
 # Miscellaneous
 baidu_analytics: ''
 google_analytics: ''
-favicon: /favicon.png
+favicon: /img/favicon.ico
 
 #你的头像url
-avatar:
+avatar: /img/me.png
 
 #是否开启分享
 share_jia: true
@@ -138,6 +138,6 @@ js_cdn:
 
 # 不蒜子网站统计
 busuanzi:
-  enable: false
+  enable: true
 
-aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
+aboutme: 很惭愧<br><br>只做了一点微小的工作<br><br> 正在努力为理想而奋斗着!!!
